@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/uopeoplearabic.github.io/reviewer/static/css/main.cb4c0e34.css",
-    "main.js": "/uopeoplearabic.github.io/reviewer/static/js/main.c0901086.js",
-    "static/js/787.6534cbcf.chunk.js": "/uopeoplearabic.github.io/reviewer/static/js/787.6534cbcf.chunk.js",
-    "static/media/icon.svg": "/uopeoplearabic.github.io/reviewer/static/media/icon.0ea4738de7824d4ff8c0aae0f1fe4484.svg",
-    "index.html": "/uopeoplearabic.github.io/reviewer/index.html",
-    "main.cb4c0e34.css.map": "/uopeoplearabic.github.io/reviewer/static/css/main.cb4c0e34.css.map",
-    "main.c0901086.js.map": "/uopeoplearabic.github.io/reviewer/static/js/main.c0901086.js.map",
-    "787.6534cbcf.chunk.js.map": "/uopeoplearabic.github.io/reviewer/static/js/787.6534cbcf.chunk.js.map"
+    "main.css": "/reviewer/static/css/main.cb4c0e34.css",
+    "main.js": "/reviewer/static/js/main.ff075bad.js",
+    "static/js/787.6534cbcf.chunk.js": "/reviewer/static/js/787.6534cbcf.chunk.js",
+    "static/media/icon.svg": "/reviewer/static/media/icon.0ea4738de7824d4ff8c0aae0f1fe4484.svg",
+    "index.html": "/reviewer/index.html",
+    "main.cb4c0e34.css.map": "/reviewer/static/css/main.cb4c0e34.css.map",
+    "main.ff075bad.js.map": "/reviewer/static/js/main.ff075bad.js.map",
+    "787.6534cbcf.chunk.js.map": "/reviewer/static/js/787.6534cbcf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb4c0e34.css",
-    "static/js/main.c0901086.js"
+    "static/js/main.ff075bad.js"
   ]
 }
