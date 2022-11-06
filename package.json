@@ -1,7 +1,7 @@
 {
   "name": "reviewer",
   "version": "0.1.0",
-  "homepage": "uopeoplearabic.github.io/reviewer",
+  "homepage": "https://uopeoplearabic.github.io/reviewer",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
