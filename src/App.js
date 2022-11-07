@@ -60,7 +60,7 @@ function App() {
           <hr />
           <h3>اراء الزملاء</h3>
           {item.feedbacks.map((e, i) => {
-            return <div key={`rep-${i}`} className='reply'>{e}</div>
+            return <pre key={`rep-${i}`} className='reply'>{e}</pre>
           })}
         </div>}
       </div>
